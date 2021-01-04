@@ -1,0 +1,71 @@
+description: ''
+type: object
+properties:
+  type:
+    type: string
+    minLength: 1
+  body:
+    type: object
+    properties:
+      transactionID:
+        type: string
+        minLength: 1
+      merchantID:
+        type: string
+        minLength: 1
+      cardNumber:
+        type: string
+        minLength: 1
+      amount:
+        type: string
+        minLength: 1
+      createdDate:
+        type: string
+        minLength: 1
+    required:
+      - transactionID
+      - merchantID
+      - cardNumber
+      - amount
+      - createdDate
+  enrichment:
+    type: array
+    uniqueItems: true
+    minItems: 1
+    items:
+      required:
+        - enricherName
+      properties:
+        enricherName:
+          type: string
+          minLength: 1
+        values:
+          type: object
+          properties:
+            MCC:
+              type: string
+              minLength: 1
+            MCC Description:
+              type: string
+              minLength: 1
+          required:
+            - MCC
+            - MCC Description
+required:
+  - type
+  - body
+  - enrichment
+x-examples:
+  example-1:
+    type: string
+    body:
+      transactionID: string
+      merchantID: string
+      cardNumber: string
+      amount: string
+      createdDate: string
+    enrichment:
+      - enricherName: string
+        values:
+          MCC: string
+          MCC Description: string
