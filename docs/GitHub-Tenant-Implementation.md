@@ -19,6 +19,7 @@ Note that the GitHub approach described herein obviates the need to implement an
 
 ## Guide to creating a tenant using Stoplight
 1. Create a Github repository that will be accessible to the Fiserv Dev Portal platform
+*Currently the GitHub repo must be made Public.  We are investigating how to allow Private repo's as well*
 1. Use Stoplight to design your API.  It should automatically be stored in the **models** folder
 1. Use Stoplight to compose your documents.  Note that Stoplight only supports the creation of Markdown documents, so that's what you will be creating.  Make sure to store those documents in the "docs" folder that is automatically created by Stoplight
 1. Create the *tenant_config.yaml* file.  This is the first file that the Fiserv Dev Platform will request and it provides location and other information regarding the docs and models exposed by this tenant
