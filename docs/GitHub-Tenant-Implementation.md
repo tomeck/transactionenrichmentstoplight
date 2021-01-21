@@ -27,6 +27,7 @@ Note that the GitHub approach described herein obviates the need to implement an
 This is the easiest part of all of it.  Simply connect an empty GitHub repo with your Stoplight project.  Within Stoplight, just 'push' the site/content to git.   Boom you are done
 
 What happens when you add or change a document, or want to update your Tenant Config file?  Simply make your edits in Stoplight and push them to Git.   Boom - your changes will be instantly active
-\
+
+
 
 
