@@ -1,0 +1,91 @@
+title: Carat
+logoURL: 'https://merchants.fiserv.com/content/dam/firstdata/us/en/static/carat/images/carat-logo.svg'
+description: |-
+  Our powerful omnichannel commerce solutions help companies reach untapped markets and expand globally without being limited by borders, currencies or old ways of thinking.
+        Carat’s single-source commerce engine makes the process seamless, effortless, and secure. We’ve unified our suite of solutions into a powerful tech ecosystem so you can create commerce.
+        Carat’s single-source commerce engine makes the process seamless, effortless, and secure. We’ve unified our suite of solutions into a powerful tech ecosystem so you can create commerce. Carat’s single-source commerce engine makes the process seamless, effortless, and secure. We’ve unified our suite of solutions into a powerful tech ecosystem so you can create commerce.
+tags:
+  - commerce
+  - payments
+solutions:
+  - id: '123'
+    name: Omnichannel Solutions
+    logoURL: string
+    description: Create payment experiences that help drive more commerce. Additional information about this Category of Products
+    tags: null
+    products:
+      - id: '1'
+        name: Product 1
+        logoURL: 'https://merchants.fiserv.com/content/dam/firstdata/us/en/static/carat/images/carat-logo.svg'
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: /v1/tenants/swagger
+        format: yaml
+        documentation: /v1/tenants/docs
+      - id: '2'
+        name: Product 2
+        logoURL: 'https://merchants.fiserv.com/content/dam/firstdata/us/en/static/carat/images/carat-logo.svg'
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: /v1/tenants/swagger
+        format: yaml
+        documentation: /v1/tenants/docs
+      - id: '3'
+        name: Product 3
+        logoURL: 'https://merchants.fiserv.com/content/dam/firstdata/us/en/static/carat/images/carat-logo.svg'
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: /v1/tenants/swagger
+        format: yaml
+        documentation: /v1/tenants/docs
+  - id: '456'
+    name: ECommerce Solutions
+    logoURL: string
+    description: Secure commerce and optimize payment and payout strategies Additional information about this Category of Products. TKTKTKTKTKTKTKTKTKTK
+    tags: null
+    products:
+      - id: '1'
+        name: Product 1
+        logoURL: ''
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: ''
+        format: ''
+        documentation: ''
+      - id: '2'
+        name: Product 2
+        logoURL: ''
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: ''
+        format: ''
+        documentation: ''
+      - id: '3'
+        name: Product 3
+        logoURL: ''
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: ''
+        format: ''
+        documentation: ''
+  - id: '789'
+    name: Payouts
+    logoURL: string
+    description: Innovate and streamline gift and payroll card programs. Additional information about this Category of Products. TKTKTKTKTKTKTKTKTKTK
+    tags: null
+    products:
+      - id: '1'
+        name: Product 1
+        logoURL: ''
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: ''
+        format: ''
+        documentation: ''
+      - id: '2'
+        name: Product 2
+        logoURL: ''
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: ''
+        format: ''
+        documentation: ''
+      - id: '3'
+        name: Product 3
+        logoURL: ''
+        description: Authoritatively disseminate prospective leadership via opportunities economically sound.
+        apiSpecification: ''
+        format: ''
+        documentation: ''
