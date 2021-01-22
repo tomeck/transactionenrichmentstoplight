@@ -4,7 +4,7 @@
 
 *NB2: The use of Stoplight here is for example purposes.  The same net result can be achieved with any Markdown (or text) editor (e.g. VS Code, Atom, Sublime, vi) and a GitHub repo.*
 
-## Folder Structure ##
+### Folder Structure ###
 
 The key to the Container Tenant Implementation is the folder structure and the location/format of certain key files, as follows:
 
